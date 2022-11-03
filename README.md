@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map https://docs.google.com/spreadsheets/d/1bPmwO6P7X0DbJjqfWLmZArAM7EB332m6_UsA3Z6JZbM/edit#gid=1033046795
+- Leaflet Map https://sweed3.github.io/sample-storymap/
 - Google Sheets template  https://docs.google.com/spreadsheets/d/1bPmwO6P7X0DbJjqfWLmZArAM7EB332m6_UsA3Z6JZbM/edit#gid=0
 
 ## Create Your Own
